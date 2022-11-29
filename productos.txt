@@ -1,0 +1,6 @@
+{
+  "nombre": "Remera",
+  "precio": "300",
+  "image": "",
+  "id": 1
+}
